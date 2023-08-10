@@ -1,5 +1,5 @@
 # Data-Professional-Survey-Breakdown_Power-BI-Project
-This is a PowerBi dashboard created with the survey data taken of 630 individuals in US working in different parts of Data.
+This is a PowerBi dashboard created with the survey taken of 630 individuals in US working in different parts of Data.
 The steps involved in the analysis:
 1. Data Extraction: Getting the data from an Excel sheet to Power Query.
 2. Data Cleaning: Checking for duplicate values, errors, and patterns.
